@@ -11,5 +11,7 @@ public class NguyenMinhTri53831 extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //nguyenminhtri53831
+        //123123
+        //123123
     }
 }
